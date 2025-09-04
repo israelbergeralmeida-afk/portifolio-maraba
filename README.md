@@ -58,14 +58,14 @@ MDN Web Docs
 </article>
 </section>
 <section id="contato">
-<h2>429099869887</h2>
+<h2>contato</h2>
 <form action="#" method="post">
 <p>
 <label for="nome">Nome</label><br>
 <input id="nome" name="nome" type="text" required>
 </p>
 <p>
-<label for="email">E-mail</label><br>
+<label for="email">israel.berger.almeida@escola.pr.gov.br</label><br>
 <input id="email" name="email" type="email" required>
 </p>
 <p>
